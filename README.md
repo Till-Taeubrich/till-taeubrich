@@ -8,11 +8,11 @@ Between building out stores for clients, I keep on learning new technologies wit
 
 #  🛒 Need help with your Shopify Store?
 
-Get in touch with me by contacting me through email or Upwork -  there's a link for both below my profile picture on the page you're currently on.
+Get in touch with me by contacting me through Upwork -  there's a link below my profile picture on the page you're currently on.
 
-If you're interested to see stores I've built or customized, don't try to search them in my repositories. You will only find a handful of practice projects, because all client projects are private repositories.
+If you're interested to see stores I've built or customized, don't try to search them in my repositories. All my client projects are private repositories.
 
-After you contacted me, I can send you the stores I work/worked on.
+After you contacted me, I can send you stores I work/worked on.
 
 # 🔧 Technologies & Tools
 
