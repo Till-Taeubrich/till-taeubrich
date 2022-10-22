@@ -2,7 +2,7 @@
 
 My name is Till, and I'm a freelance front-end developer specializing in Shopify Theme Development.
 
-I really enjoy the process of problem-solving. Having one main problem, breaking it apart into smaller steps, and then tackle them one by one to eventually build a solution - I love it.
+I really enjoy the process of problem-solving. Having one main problem, breaking it apart into smaller steps, and then tackle them one by one to eventually build a working solution - I love it.
 
 Between building out stores for clients, I keep on learning new technologies with the goal of becoming a full-stack developer and eventually creating applications that solve real problems at scale.
 
@@ -12,7 +12,7 @@ Get in touch with me by contacting me through Upwork -  there's a link below my 
 
 If you're interested to see stores I've built or customized, don't try to search them in my repositories. All my client projects are private repositories / not visible to others.
 
-To see my work, just visit my Upwork profile and scroll down until to the "Portfolio" section. Or contact me there, and I'll send you projects that're relevant to your needs.
+To see my work, just visit my Upwork profile and scroll down to the "Portfolio" section. Or contact me there, and I'll send you projects that're relevant to your needs.
 
 # 🔧 Technologies & Tools
 
