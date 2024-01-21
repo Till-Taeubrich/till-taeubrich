@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hey there
 
-<!--
-**Till-Taeubrich/till-taeubrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Till, and I'm a freelance full-stack developer specializing in Shopify.
 
-Here are some ideas to get you started:
+Creating & building solutions that help others to keep thriving their businesses, and being able to do that just by writing code, is a super rewarding feeling for me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  🛒 Want to improve your own Shopify store with custom-coded solutions?
+
+Get in touch with me by contacting me through [Upwork](https://www.upwork.com/freelancers/~016389df76a725208a) or [Email](mailto:Till.taeubrich@gmail.com).
+
+To see some of my previous projects, simply visit my [Upwork](https://www.upwork.com/freelancers/~016389df76a725208a) profile and scroll down to the "Portfolio" section. Or contact me & let me know what you're looking for, so I can send you my previous projects that match your needs.
+
+# 🔧 Technologies & Tools
+
+- HTML
+- CSS
+- Liquid
+- JavaScript
+- React
+- NodeJS
+- TypeScript
+- GraphQL
+- MongoDB
+- PostgreSQL
+- Git/GitHub
