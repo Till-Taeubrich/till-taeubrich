@@ -26,6 +26,7 @@ To see some of my previous projects, simply visit my [Upwork](https://www.upwork
 - GraphQL
 - MongoDB
 - PostgreSQL
+- Prisma
 - Cypress.io
 - CI/CD
 - Git/GitHub
