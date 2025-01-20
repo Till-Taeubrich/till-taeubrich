@@ -15,6 +15,8 @@ To see some of my previous projects, simply visit my [Upwork](https://www.upwork
 - HTML
 - CSS
 - Liquid
+- Ruby
+- Ruby on Rails
 - JavaScript
 - React.js
 - Redux.js
