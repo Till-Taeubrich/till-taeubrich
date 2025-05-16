@@ -6,7 +6,7 @@ I specialize in both theme development and custom app development.
 
 ## 🛒 Get in touch
 
-There are multiple options to contact me on [My Portfolio Page](https://tilltaeubrich.com/)
+There are multiple ways to contact me on [My Portfolio Page](https://tilltaeubrich.com/)
 
 ## 🔧 Technologies & Tools
 
