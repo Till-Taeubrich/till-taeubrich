@@ -1,23 +1,21 @@
 # 👋 Hey there
 
-My name is Till, and I'm a freelance full-stack developer specializing in Shopify.
+My name is Till, and I'm a Shopify developer.
 
-I build & come up with solutions that help others keep thriving their ecommerce business.
+I specialize in both theme development and custom app development.
 
-#  🛒 Want to expand your own Shopify store with custom tailored solutions?
+## 🛒 Get in touch
 
-Get started by getting in touch with me through [Upwork](https://www.upwork.com/freelancers/~016389df76a725208a) or [Email](mailto:Till.taeubrich@gmail.com).
+There are multiple options to contact me on [My Portfolio Page](https://tilltaeubrich.com/)
 
-To see some of my previous projects, simply visit my [Upwork](https://www.upwork.com/freelancers/~016389df76a725208a) profile and scroll down to the "Portfolio" section. Or [contact me](mailto:till.taeubrich@gmail.com) & let me know what you're looking for, so I can send you my previous projects that match your needs.
-
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 - HTML
 - CSS
 - Liquid
+- JavaScript
 - Ruby
 - Ruby on Rails
-- JavaScript
 - React.js
 - Redux.js
 - Next.js
