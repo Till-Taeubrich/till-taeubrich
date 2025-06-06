@@ -1,32 +1,22 @@
-# 👋 Hey there
+# 👋 Hey There
 
 My name is Till, and I'm a Shopify developer.
 
-I specialize in both theme development and custom app development.
+I specialize in both Shopify theme development and Shopify custom app development.
 
-## 🛒 Get in touch
+## 🛒 Get in Touch
 
 There are multiple ways to contact me on [My Portfolio Page](https://tilltaeubrich.com/)
 
-## 🔧 Technologies & Tools
+## 🔧 Main Technologies & Tools
 
-- HTML
-- CSS
+- HTML, CSS, JavaSript/TypeScript
 - Liquid
-- JavaScript
-- Ruby
-- Ruby on Rails
 - React.js
-- Redux.js
 - Next.js
+- Ruby, Ruby on Rails, Hotwire
 - Node.js
 - Express.js
-- TypeScript
-- REST-API
-- GraphQL
-- MongoDB
-- PostgreSQL
-- Prisma
-- Cypress.io
+- REST & GraphQL
+- PostgreSQL/Relational Databases
 - CI/CD
-- Git/GitHub
