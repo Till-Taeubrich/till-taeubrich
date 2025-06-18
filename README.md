@@ -14,7 +14,7 @@ There are multiple ways to contact me on [My Portfolio Page](https://tilltaeubri
 - Liquid
 - React.js, Next.js
 - Ruby, Ruby on Rails, Hotwire
-- Node.js w/ Express.js
+- Node.js, Express.js
 - REST & GraphQL
 - PostgreSQL/Relational Databases
-- CI/CD
+- CI/CD setup
